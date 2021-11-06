@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_your_mother.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yourmom basic0000" x="0" y="0" width="611" height="136"/>
+	<SubTexture name="yourmom basic0001" x="0" y="0" width="611" height="136"/>
+	<SubTexture name="yourmom basic0002" x="0" y="0" width="611" height="136"/>
+	<SubTexture name="yourmom basic0003" x="611" y="0" width="611" height="136"/>
+	<SubTexture name="yourmom basic0004" x="611" y="0" width="611" height="136"/>
+	<SubTexture name="yourmom basic0005" x="611" y="0" width="611" height="136"/>
+	<SubTexture name="yourmom basic0006" x="1222" y="0" width="611" height="136"/>
+	<SubTexture name="yourmom basic0007" x="1222" y="0" width="611" height="136"/>
+	<SubTexture name="yourmom basic0008" x="1222" y="0" width="611" height="136"/>
+	<SubTexture name="yourmom white0000" x="0" y="136" width="772" height="211" frameX="-1" frameY="0" frameWidth="773" frameHeight="211"/>
+	<SubTexture name="yourmom white0001" x="772" y="136" width="773" height="211"/>
+	<SubTexture name="yourmom white0002" x="0" y="347" width="769" height="210" frameX="0" frameY="0" frameWidth="773" frameHeight="211"/>
+</TextureAtlas>

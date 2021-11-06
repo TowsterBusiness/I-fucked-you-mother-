@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bfurmom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you fucked my mom ;-;"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "urmom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lmao bitch watch me do it again."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfurmom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm no bitch I'm de cool player guy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "urmom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pussy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfurmom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "my only weakness, fuck"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "urmom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lorem ipsum dolor sit amet, consectertur adipiscing elit, sed do eiusmod tempor incididunt\\nut labore tttttttttttttttttttttttttttttttttttttttttttttt"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfurmom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nooooooooooooooooooooooooooo\\noooooooooooooooooooooooooooooooooooo\\nooooooooooooooooooo\\noooooooooooooooooooooooooooooooooooooooooooooooo"
+		}
+	]
+}

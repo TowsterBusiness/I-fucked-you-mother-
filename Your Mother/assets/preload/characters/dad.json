@@ -1,0 +1,139 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "yourmom down"
+		},
+		{
+			"offsets": [
+				31,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "yourmom right"
+		},
+		{
+			"offsets": [
+				5,
+				-33
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "yourmom idle"
+		},
+		{
+			"offsets": [
+				34,
+				-36
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				3,
+				4,
+				4
+			],
+			"name": "yourmom left"
+		},
+		{
+			"offsets": [
+				17,
+				-35
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				3,
+				4,
+				4
+			],
+			"name": "yourmom right"
+		},
+		{
+			"offsets": [
+				0,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "yourmom idle"
+		},
+		{
+			"offsets": [
+				29,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "yourmom left"
+		},
+		{
+			"offsets": [
+				118,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "yourmom up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				123,
+				-10
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "yourmom up0",
+			"indices": [
+				3,
+				4,
+				4
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sex",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "urmom",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		40,
+		80
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

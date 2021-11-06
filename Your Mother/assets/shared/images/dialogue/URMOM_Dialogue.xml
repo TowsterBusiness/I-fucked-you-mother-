@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="URMOM_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="momdoer speak0000" x="0" y="0" width="460" height="613"/>
+	<SubTexture name="momdoer speak0001" x="0" y="0" width="460" height="613"/>
+	<SubTexture name="momdoer speak0002" x="460" y="0" width="460" height="605" frameX="0" frameY="-8" frameWidth="460" frameHeight="613"/>
+	<SubTexture name="momdoer speak0003" x="460" y="0" width="460" height="605" frameX="0" frameY="-8" frameWidth="460" frameHeight="613"/>
+	<SubTexture name="momdoer speak0004" x="920" y="0" width="460" height="603" frameX="0" frameY="-10" frameWidth="460" frameHeight="613"/>
+	<SubTexture name="momdoer speak0005" x="1380" y="0" width="460" height="603" frameX="0" frameY="-10" frameWidth="460" frameHeight="613"/>
+	<SubTexture name="momdoer speak0006" x="0" y="0" width="460" height="613"/>
+	<SubTexture name="momdoer speak0007" x="0" y="0" width="460" height="613"/>
+	<SubTexture name="momdoer speak0008" x="460" y="0" width="460" height="605" frameX="0" frameY="-8" frameWidth="460" frameHeight="613"/>
+	<SubTexture name="momdoer speak0009" x="460" y="0" width="460" height="605" frameX="0" frameY="-8" frameWidth="460" frameHeight="613"/>
+	<SubTexture name="momdoer speak0010" x="920" y="0" width="460" height="603" frameX="0" frameY="-10" frameWidth="460" frameHeight="613"/>
+	<SubTexture name="momdoer speak0011" x="1380" y="0" width="460" height="603" frameX="0" frameY="-10" frameWidth="460" frameHeight="613"/>
+	<SubTexture name="momdoer speak0012" x="0" y="0" width="460" height="613"/>
+	<SubTexture name="momdoer speak0013" x="0" y="0" width="460" height="613"/>
+	<SubTexture name="momdoer speak0014" x="460" y="0" width="460" height="605" frameX="0" frameY="-8" frameWidth="460" frameHeight="613"/>
+	<SubTexture name="momdoer speak0015" x="460" y="0" width="460" height="605" frameX="0" frameY="-8" frameWidth="460" frameHeight="613"/>
+	<SubTexture name="momdoer speak0016" x="920" y="0" width="460" height="603" frameX="0" frameY="-10" frameWidth="460" frameHeight="613"/>
+	<SubTexture name="momdoer speak0017" x="1380" y="0" width="460" height="603" frameX="0" frameY="-10" frameWidth="460" frameHeight="613"/>
+</TextureAtlas>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFURMOM_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf portrait momdone0000" x="0" y="0" width="671" height="522" frameX="-5" frameY="-7" frameWidth="690" frameHeight="529"/>
+	<SubTexture name="bf portrait momdone0001" x="671" y="0" width="676" height="522" frameX="0" frameY="-7" frameWidth="690" frameHeight="529"/>
+	<SubTexture name="bf portrait momdone0002" x="1347" y="0" width="669" height="526" frameX="-11" frameY="-3" frameWidth="690" frameHeight="529"/>
+	<SubTexture name="bf portrait momdone0003" x="0" y="526" width="680" height="526" frameX="0" frameY="-3" frameWidth="690" frameHeight="529"/>
+	<SubTexture name="bf portrait momdone0004" x="680" y="526" width="685" height="529" frameX="-5" frameY="0" frameWidth="690" frameHeight="529"/>
+	<SubTexture name="bf portrait momdone0005" x="0" y="1055" width="690" height="529"/>
+	<SubTexture name="bf portrait momdone0006" x="0" y="0" width="671" height="522" frameX="-5" frameY="-7" frameWidth="690" frameHeight="529"/>
+	<SubTexture name="bf portrait momdone0007" x="671" y="0" width="676" height="522" frameX="0" frameY="-7" frameWidth="690" frameHeight="529"/>
+	<SubTexture name="bf portrait momdone0008" x="1347" y="0" width="669" height="526" frameX="-11" frameY="-3" frameWidth="690" frameHeight="529"/>
+	<SubTexture name="bf portrait momdone0009" x="0" y="526" width="680" height="526" frameX="0" frameY="-3" frameWidth="690" frameHeight="529"/>
+	<SubTexture name="bf portrait momdone0010" x="680" y="526" width="685" height="529" frameX="-5" frameY="0" frameWidth="690" frameHeight="529"/>
+	<SubTexture name="bf portrait momdone0011" x="0" y="1055" width="690" height="529"/>
+	<SubTexture name="bf portrait momdone0012" x="0" y="0" width="671" height="522" frameX="-5" frameY="-7" frameWidth="690" frameHeight="529"/>
+	<SubTexture name="bf portrait momdone0013" x="671" y="0" width="676" height="522" frameX="0" frameY="-7" frameWidth="690" frameHeight="529"/>
+	<SubTexture name="bf portrait momdone0014" x="1347" y="0" width="669" height="526" frameX="-11" frameY="-3" frameWidth="690" frameHeight="529"/>
+	<SubTexture name="bf portrait momdone0015" x="0" y="526" width="680" height="526" frameX="0" frameY="-3" frameWidth="690" frameHeight="529"/>
+	<SubTexture name="bf portrait momdone0016" x="680" y="526" width="685" height="529" frameX="-5" frameY="0" frameWidth="690" frameHeight="529"/>
+	<SubTexture name="bf portrait momdone0017" x="0" y="1055" width="690" height="529"/>
+</TextureAtlas>
